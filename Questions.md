@@ -140,6 +140,9 @@ instead of using regressors from `lightgbm` or `xgboost`, I decided to use `CatB
 In my experience, CatBoost is a powerful gradient boosting library that handles categorical features well, and it provides
 its own shapley values and feature importance metrics, which can be useful for interpretability.
 
+The other reason is Catboost is ideal for prototyping and figuring out the presence signal in the data, and it is less
+prone to overfitting when dealing with rather small datasets (as here).
+
 
 
 ## Question #4 : Dégradation de la performance
