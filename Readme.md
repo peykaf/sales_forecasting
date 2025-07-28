@@ -9,7 +9,7 @@ To install the dependencies, run
 
 ```pip install -r requirements.txt```
 
-Explanatory Data Analysis is carried out in `eda.ipynb` and `eda.py`.
+Explanatory Data Analysis is carried out in `eda.ipynb`.
 
 
 To run the model end to end, consisting of:
