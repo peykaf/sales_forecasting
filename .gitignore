@@ -1,0 +1,9 @@
+.venv/
+.idea/
+
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+catboost_info/
