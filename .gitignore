@@ -6,4 +6,3 @@ __pycache__/
 *.pyo
 *.pyd
 
-catboost_info/
